@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet_lab1", "Dotnet_lab1\Dotnet_lab1.csproj", "{A323414B-40C0-438E-8CC7-6D83288534A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab2", "Dotnet_lab1\DotNet_Lab2.csproj", "{A323414B-40C0-438E-8CC7-6D83288534A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet_lab2", "Dotnet_lab2\Dotnet_lab2.csproj", "{FCB2A1B1-ED6C-4FA4-B61E-F590CD3914E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab3", "Dotnet_lab2\DotNet_Lab3.csproj", "{FCB2A1B1-ED6C-4FA4-B61E-F590CD3914E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab4", "DotNet_Lab4\DotNet_Lab4.csproj", "{9F7D5252-10AD-4443-BDB2-A03F424FCA46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FCB2A1B1-ED6C-4FA4-B61E-F590CD3914E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCB2A1B1-ED6C-4FA4-B61E-F590CD3914E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCB2A1B1-ED6C-4FA4-B61E-F590CD3914E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7D5252-10AD-4443-BDB2-A03F424FCA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7D5252-10AD-4443-BDB2-A03F424FCA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7D5252-10AD-4443-BDB2-A03F424FCA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7D5252-10AD-4443-BDB2-A03F424FCA46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

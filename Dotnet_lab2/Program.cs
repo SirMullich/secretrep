@@ -9,7 +9,6 @@ namespace Dotnet_lab2
     public enum Genders { Males, Females };
     class Person
     {
-        
         public string firstName;
         public string lastName;
         public int age;
@@ -177,7 +176,7 @@ namespace Dotnet_lab2
             Console.WriteLine("{0} \t {1} \t {2} \t {3}", i1, i2, i3, i4);
 
             Int32 i32 = i1;
-            Int16 i16 = i2;
+            //Int16 i16 = i2;
             //Int16 i16 = i4;
             double d = i1;
         }
