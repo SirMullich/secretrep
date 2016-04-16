@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab9_ClassLibrary", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab10+11", "DotNet_Lab10+11\DotNet_Lab10+11.csproj", "{33A0C6ED-5580-484B-A58A-A5B85B308B4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_Lab12", "DotNet_Lab12\DotNet_Lab12.csproj", "{6F73452C-E60D-4E28-BAB9-75CAAC31530C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{33A0C6ED-5580-484B-A58A-A5B85B308B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33A0C6ED-5580-484B-A58A-A5B85B308B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33A0C6ED-5580-484B-A58A-A5B85B308B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F73452C-E60D-4E28-BAB9-75CAAC31530C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F73452C-E60D-4E28-BAB9-75CAAC31530C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F73452C-E60D-4E28-BAB9-75CAAC31530C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F73452C-E60D-4E28-BAB9-75CAAC31530C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
